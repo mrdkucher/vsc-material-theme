@@ -5,7 +5,6 @@
 .gitignore
 .gulp
 .vscode/**
-assets/
 gulpfile.babel.ts
 node_modules
 out/test/**

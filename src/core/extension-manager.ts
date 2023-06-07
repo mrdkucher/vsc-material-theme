@@ -33,7 +33,7 @@ export interface IExtensionManager {
 
 class ExtensionManager implements IExtensionManager {
   get VERSION_KEY() {
-    return 'vsc-material-theme.version';
+    return 'vsc-material-theme-stop-madness.version';
   }
 
   installationType: InstallationType;
