@@ -2,7 +2,7 @@
   "name": "vsc-material-theme-stop-madness",
   "displayName": "Material Theme Cleanup",
   "description": "Material Theme for Visual Studio Code, stop the madness edition",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "mvasilkov",
   "license": "Apache-2.0",
   "author": "Mattia Astorino [@equinusocio]",
