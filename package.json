@@ -1,7 +1,7 @@
 {
-  "name": "vsc-material-theme-stop-madness",
-  "displayName": "Material Theme Cleanup",
-  "description": "Material Theme for Visual Studio Code, stop the madness edition",
+  "name": "vsc-material-theme",
+  "displayName": "Material Theme",
+  "description": "Material Theme for Visual Studio Code",
   "version": "0.0.2",
   "publisher": "mvasilkov",
   "license": "Apache-2.0",
@@ -11,13 +11,13 @@
     "color": "#11131C",
     "theme": "dark"
   },
-  "homepage": "https://github.com/mvasilkov/vsc-material-theme-stop-madness",
+  "homepage": "https://github.com/mrdkucher/vsc-material-theme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mvasilkov/vsc-material-theme-stop-madness.git"
+    "url": "https://github.com/mrdkucher/vsc-material-theme"
   },
   "bugs": {
-    "url": "https://github.com/mvasilkov/vsc-material-theme-stop-madness/issues"
+    "url": "https://github.com/mrdkucher/vsc-material-theme/issues"
   },
   "engines": {
     "node": ">=12",
